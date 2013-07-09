@@ -1,0 +1,37 @@
+Ozone data set
+Description of variables:
+
+WSR_PK: continuous. peak wind speed
+WSR_AV: continuous. average wind speed 
+
+T_PK: continuous. Peak Temperature
+T_AV: continuous. Average Temperature 
+
+T85: continuous. T at 850 hpa level (or about 1500 m height) 
+RH85: continuous. Relative Humidity at 850 hpa 
+U85: continuous. U wind - east-west direction wind at 850 hpa
+V85: continuous. V wind - north-south direction wind at 850 hpa
+HT85: continuous. Geopotential height at 850 hpa, it is about the same as height at low altitude 
+
+T70: continuous. T at 700 hpa level (roughly 3100 m height) 
+RH70: continuous. 
+U70: continuous. 
+V70: continuous. 
+HT70: continuous. 
+
+T50: continuous. T at 500 hpa level (roughly at 5500 m height) 
+RH50: continuous. 
+U50: continuous. 
+V50: continuous. 
+HT50: continuous. 
+
+KI: continuous. K-Index, a measure of thunderstorm potential
+TT: continuous. T-Totals, an index used to assess storm strength
+SLP: continuous. Sea level pressure 
+SLP_: continuous. SLP change from previous day 
+
+Precp: continuous. -- precipitation
+
+Class: 0/1, 0=NOT ozone day
+            1=ozone day
+
